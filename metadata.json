@@ -1,0 +1,8 @@
+{
+  "name": "Transport Mileage Track Record",
+  "description": "VJPL personal cars milage track, fuel consumption, odometer tracking, and trip records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
